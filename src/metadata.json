@@ -1,0 +1,8 @@
+{
+  "name": "Nexus User Dashboard",
+  "description": "A high-performance, professional user panel with integrated Gemini AI insights, real-time analytics visualization, and profile management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
